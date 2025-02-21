@@ -1,5 +1,6 @@
 import Image from "next/image";
 import clsx from 'clsx';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -38,7 +39,7 @@ export default function Home() {
             <li>
               <a>The Rise and Fall of the Fossil Fuel Empire</a>
               <span className="text-neutral-700 italic"> - Energy</span>
-              <a className="text-blue-500 font-semibold hover:underline" href="https://github.com/malikbarbier7/tomatotime"> - read</a>
+              <Link href="/blog/the-rise-and-fall-of-the-fossil-fuel-empire" className="text-blue-500 font-semibold hover:underline"> - read</Link>
             </li>
 
             <li>
