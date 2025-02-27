@@ -2,6 +2,8 @@
 
 Welcome to my portfolio project! This project showcases my skills, projects, hobies and more.
 
+Now available at : www.malikbarbier.com
+
 ## Project Overview
 
 This portfolio is built with [Next.js](https://nextjs.org), a powerful React framework that enables server-side rendering and static site generation. It is styled using [TailwindCSS](https://tailwindcss.com), a utility-first CSS framework that allows for rapid UI development.
