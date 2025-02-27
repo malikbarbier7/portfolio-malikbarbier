@@ -1,4 +1,3 @@
-import clsx from 'clsx';
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Space_Grotesk } from "next/font/google";
 import "./globals.css";
@@ -31,11 +30,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={clsx(
-          geistSans.variable,
-          geistMono.variable,
-          'antialiased'
-        )}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
       </body>
