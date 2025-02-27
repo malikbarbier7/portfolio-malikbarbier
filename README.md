@@ -1,6 +1,6 @@
 # My Portfolio Project
 
-Welcome to my portfolio project! This project showcases my skills and experience in front-end development using modern technologies like Next.js, React, and TailwindCSS. Explore the various sections to learn more about my work and the technologies I specialize in.
+Welcome to my portfolio project! This project showcases my skills, projects, hobies and more.
 
 ## Project Overview
 
