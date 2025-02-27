@@ -39,10 +39,10 @@ const TestArticle = () => {
         <h2 className="text-xl font-bold mt-6">The Cracks in the System</h2>
         <p>Many people assume that human innovation and technology will guarantee perpetual growth, but I believe that energy is the true driving force behind civilization. Without affordable and abundant energy, industrial economies would struggle to function. It&apos;s not the technology that enables energy production, but rather energy that makes modern technology possible. Our technological advancements and progress have been made possible by the abundance of energy, not the other way around.</p>
   
-        <h3 className="text-lg font-bold mt-4">Let's Talk About Oil</h3>
+        <h3 className="text-lg font-bold mt-4">Let&apos;s Talk About Oil</h3>
         <p>Oil, the most critical fossil fuel, is facing depletion. Conventional oil production peaked around 2005–2006, and what has prevented a sharp decline since then has been the rise of unconventional oil sources, such as U.S. tight oil and oil sands production. However, these sources come with significant limitations in terms of cost, energy efficiency, and environmental impact.</p>
         <Image src="/img/article1/world-oil-consumption.png" alt="oil-consumption" width={600} height={400} className="w-3/4 h-auto mt-4 mx-auto" />
-        <h3 className="text-lg font-bold mt-4">What's the Difference Between Conventional and Unconventional Oil?</h3>
+        <h3 className="text-lg font-bold mt-4">What&apos;s the Difference Between Conventional and Unconventional Oil?</h3>
         <p>Conventional oil refers to crude oil extracted using traditional methods from underground reservoirs that are relatively easy to access. It flows naturally or is pumped using vertical wells. This type of oil has been the backbone of global energy production for over a century. It is also of higher quality, requiring less processing to refine, making it cheaper and more efficient to use.</p>
         <p>Unconventional oil, on the other hand, comes from sources that are more difficult and expensive to extract. This includes oil sands, shale oil, and synthetic fuels derived from coal or natural gas. Shale oil, for example, is trapped in rock formations and requires energy-intensive methods like hydraulic fracturing (fracking) or horizontal drilling for extraction. These processes are costly, have lower energy returns, and often come with severe environmental consequences.</p>
         <Image src="/img/article1/drilling.png" alt="drilling" width={600} height={400} className="w-3/4 h-auto mt-4 mx-auto" />
@@ -64,7 +64,7 @@ const TestArticle = () => {
        <p>As energy supplies shrink, economies struggle, leading to inflation, job losses, and geopolitical instability. Countries will likely compete more aggressively for remaining resources, potentially leading to economic crises and conflicts.</p>
         <p>The transition away from fossil fuels will require adaptation. Some nations may invest in local energy solutions, while others may face economic decline and political turmoil.</p>
   
-        <h2 className="text-xl font-bold mt-6">And I'm Not Even Raising the Climate Issue…</h2>
+        <h2 className="text-xl font-bold mt-6">And I&apos;m Not Even Raising the Climate Issue…</h2>
         <p>This discussion hasn&apos;t even touched on the climate crisis, which adds another layer of urgency to the energy dilemma. Reducing emissions while maintaining economic stability is an enormous challenge, and delaying action only makes the transition harder.</p>
   
         <h2 className="text-xl font-bold mt-6">What Comes Next? Navigating the Future</h2>
