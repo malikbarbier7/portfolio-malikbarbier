@@ -31,7 +31,7 @@ const TestArticle = () => {
         <p>Fossil fuels didn&apos;t just give us power—they changed how we live. Before, most people were farmers because growing food required a lot of human labor. In 1800, over 90% of the world&apos;s population lived in rural areas, and two-thirds of them worked in the fields.</p>
         <Image src="/img/article1/urban-and-rural-population.png" alt="urbanvsrural" width={600} height={400} className="w-3/4 h-auto mt-4 mx-auto" />
         <p>Then came machines. With coal, oil, and gas, we replaced human and animal labor with tractors, engines, and factory machines. Farmers became more productive, fewer people needed to work in agriculture, and cities started booming. Today, most people live in urban areas and work in industries or services, not on farms.</p>
-        <p>The service industry exploded, too. Take cars: when production increased, we didn't just need more factories—we needed people to sell, finance, insure, and advertise them. As a result, jobs in the service sector grew, even as industrial jobs declined.</p>
+        <p>The service industry exploded, too. Take cars: when production increased, we didn&apos;t just need more factories—we needed people to sell, finance, insure, and advertise them. As a result, jobs in the service sector grew, even as industrial jobs declined.</p>
         <Image src="/img/article1/tertiarization.png" alt="tertiarization" width={600} height={400} className="w-full h-auto mt-4 mx-auto" />
         <p>With all this energy, life expectancy soared, populations exploded (from 1 billion in 1800 to over 8 billion today), and we got modern conveniences like transportation, heating, and the internet.</p>
         <p>It sounds amazing, right? So what&apos;s the catch?</p>
@@ -90,13 +90,13 @@ const TestArticle = () => {
           </li>
           <li>
             Delannoy, Louis; Longaretti, Pierre-Yves; Murphy, David J.; Prados, Emmanuel (December 15, 2021). 
-            "Peak oil and the low-carbon energy transition: A net-energy perspective". 
+            &quot;Peak oil and the low-carbon energy transition: A net-energy perspective&quot;. 
             <i>Applied Energy</i>, 304: 117843. DOI: 
             <a href="https://doi.org/10.1016/j.apenergy.2021.117843" target="_blank" className="text-blue-600 hover:underline">10.1016/j.apenergy.2021.117843</a>. ISSN 0306-2619.
           </li>
           <li>
             Michaux, Simon (2020). 
-            "GTK Oil from a Critical Raw Material Perspective FINAL CC signatures". 
+            &quot;GTK Oil from a Critical Raw Material Perspective FINAL CC signatures&quot;. 
             DOI: <a href="https://doi.org/10.13140/RG.2.2.16253.31203" target="_blank" className="text-blue-600 hover:underline">10.13140/RG.2.2.16253.31203</a>.
           </li>
           <li>
