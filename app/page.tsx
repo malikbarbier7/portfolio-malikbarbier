@@ -12,7 +12,7 @@ export default function Home() {
         👋 Hi, I'm @malik <br />
         👀 I'm interested in tech, environment, art, aviation, astronomy, philosophy...<br />
         🌱 I'm currently a data Analyst but I am also coding random stuff as a hobby <br />
-        ✍️ I also like to write about subjects I find interesting
+        ✍️ I also like to write about my interests
       </p>
 
       <main className="flex-1 flex flex-col gap-6 lg:gap-8">
@@ -51,7 +51,7 @@ export default function Home() {
             <li>
               <a>The Illusion of Free Will: Are We Truly in Control ?</a>
               <span className="text-neutral-700 italic"> - Philosophy</span>
-              <a className="text-blue-500 font-semibold hover:underline" href="https://github.com/malikbarbier7/tomatotime"> read</a>
+              <a className="text-blue-500 font-semibold hover:underline" href="https://github.com/malikbarbier7/tomatotime"> - read</a>
             </li>
 
             <li>
