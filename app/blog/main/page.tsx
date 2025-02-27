@@ -30,7 +30,7 @@ const TestArticle = () => {
             <h2 className="font-caption text-lg lg:text-xl font-bold">Philosophy</h2>
             <ul className="list-disc list-inside">
             <li>
-              <a>My Biggest Fear : Am I a Robot, an AI? </a>
+              <a>My Biggest Fear : Am I a Robot, an AI ? </a>
               <span className="text-neutral-700 italic"></span>
               <a className="text-blue-500 font-semibold hover:underline" href="/blog/my-biggest-fear-am-i-a-robot"> - read</a>
             </li>
