@@ -13,7 +13,7 @@ const TestArticle = () => {
         
         <h2 className="text-xl font-semibold">Determinism: Are We Just Programs?</h2>
         <p>Let's take an example: imagine a small mouse robot. It can move forward, turn left or right. You place it in a maze with billions of possible paths. If you give it certain rules and a basic program, it will explore, learn, and potentially find an exit. But deep down, every move it makes is the result of an algorithm and initial parameters. Are we humans really that different?</p>
-        <img src="/img/article2/mouse_black_and_white_drawing__mouse_in_front_of_a_big_labyrinth.png" alt="mouse" className="w-2/4 h-auto mt-4 mx-auto" />
+        <img src="/img/article2/mouse_black_and_white_drawing__mouse_in_front_of_a_big_labyrinth.png" alt="mouse" className="w-2/5 h-auto mx-auto" />
         <p>Our decisions seem free, but if you look closer, they are often the result of a chain of events and external conditions. Our choices are influenced by our upbringing, environment, biology... Could the illusion of free will just be a byproduct of a hyper-complex brain?</p>
 
         <h2 className="text-xl font-semibold">Determinism vs Free Will: Two Worldviews</h2>
@@ -34,6 +34,7 @@ const TestArticle = () => {
         <p>But in the end, does it really matter? Whether we are free or not, what matters is to live positive experiences, feel emotions, appreciate the beauty of the world and human relationships. Rather than getting lost in the anxiety of not being in control, we can simply choose (or be determined to choose) to adopt a life philosophy that allows us to find peace. After all, whether our path is already mapped out or not, we might as well walk it with curiosity and joy.</p>
 
         <h2 className="text-xl font-semibold">Conclusion: Between Machines and Consciousness</h2>
+        <img src="/img/article2/human_consciousness.png" alt="human consciousness" className="w-2/5 h-auto mx-auto" />
         <p>The question of whether we are robots or conscious beings remains open. Advances in neuroscience and artificial intelligence blur the boundaries between humans and machines, while philosophy continues to remind us that consciousness may be one of the greatest mysteries of existence. Whether we embrace determinism, free will, or reject Cartesian dualism in light of scientific discoveries, what matters is perhaps to keep questioning, exploring, and living this unique experience of being conscious.</p>
       </main>
 
