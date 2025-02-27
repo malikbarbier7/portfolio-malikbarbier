@@ -8,12 +8,12 @@ export default function Home() {
           <Link href="/" className="text-neutral-700 hover:underline">home</Link>
           <Link href="/blog/main" className="text-neutral-700 hover:underline">blog</Link>
         </nav>
-        <h1 className="font-caption text-2xl lg:text-3xl font-bold"> Malik Barbier</h1>
+        <h1 className="font-caption text-2xl lg:text-3xl font-bold">Malik Barbier</h1>
       </header>
       <p>
-        👋 Hi, I'm @malik <br />
-        👀 I'm interested in tech, environment, aviation, art, photography, philosophy...<br />
-        🌱 I'm currently a data Analyst but I am also coding random stuff as a hobby <br />
+        👋 Hi, I&apos;m @malik <br />
+        👀 I&apos;m interested in tech, environment, aviation, art, photography, philosophy...<br />
+        🌱 I&apos;m currently a data Analyst but I am also coding random stuff as a hobby <br />
         ✍️ I also like to write about my interests
       </p>
 
