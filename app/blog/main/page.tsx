@@ -1,12 +1,13 @@
 import React from 'react';
+import Link from 'next/link';
 
 const TestArticle = () => {
   return (
     <div className="max-w-3xl mx-auto py-8 px-4 lg:py-12 min-h-screen flex flex-col gap-12">
     <header className="flex flex-col gap-4">
     <nav className="flex gap-4 mt-0 mb-10">
-          <a href="/" className="text-neutral-700 hover:underline">home</a>
-          <a href="/blog/main" className="text-neutral-700 hover:underline">blog</a>
+          <Link href="/" className="text-neutral-700 hover:underline">home</Link>
+          <Link href="/blog/main" className="text-neutral-700 hover:underline">blog</Link>
       </nav>
       <h1 className="font-caption text-2xl lg:text-3xl font-bold">Blog</h1>
     </header>
@@ -30,7 +31,7 @@ const TestArticle = () => {
             <h2 className="font-caption text-lg lg:text-xl font-bold">Philosophy</h2>
             <ul className="list-disc list-inside">
             <li>
-              <a>My Biggest Fear : Am I a Robot, an AI ? </a>
+              <a>My Biggest Fear : Am I a Robot, an AI &apos;?</a>
               <span className="text-neutral-700 italic"></span>
               <a className="text-blue-500 font-semibold hover:underline" href="/blog/my-biggest-fear-am-i-a-robot"> - read</a>
             </li>

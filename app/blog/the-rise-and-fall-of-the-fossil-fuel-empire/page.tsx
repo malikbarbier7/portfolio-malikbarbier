@@ -27,16 +27,16 @@ const TestArticle = () => {
         <p>When I first saw the data on energy use, I was shocked. Even though we talk a lot about renewables, the reality is that fossil fuels still dominate our energy supply.</p>
   
         <h2 className="text-xl font-bold mt-6">How Fossil Fuels Changed Everything</h2>
-        <p>Fossil fuels didn't just give us power—they changed how we live. Before, most people were farmers because growing food required a lot of human labor. In 1800, over 90% of the world's population lived in rural areas, and two-thirds of them worked in the fields.</p>
+        <p>Fossil fuels didn&apos;t just give us power—they changed how we live. Before, most people were farmers because growing food required a lot of human labor. In 1800, over 90% of the world&apos;s population lived in rural areas, and two-thirds of them worked in the fields.</p>
         <img src="/img/article1/urban-and-rural-population.png" alt="urbanvsrural"  className="w-3/4 h-auto mt-4 mx-auto" />
         <p>Then came machines. With coal, oil, and gas, we replaced human and animal labor with tractors, engines, and factory machines. Farmers became more productive, fewer people needed to work in agriculture, and cities started booming. Today, most people live in urban areas and work in industries or services, not on farms.</p>
         <p>The service industry exploded, too. Take cars: when production increased, we didn't just need more factories—we needed people to sell, finance, insure, and advertise them. As a result, jobs in the service sector grew, even as industrial jobs declined.</p>
         <img src="/img/article1/tertiarization.png" alt="tertiarization"  className="w-full h-auto mt-4 mx-auto" />
         <p>With all this energy, life expectancy soared, populations exploded (from 1 billion in 1800 to over 8 billion today), and we got modern conveniences like transportation, heating, and the internet.</p>
-        <p>It sounds amazing, right? So what's the catch?</p>
+        <p>It sounds amazing, right? So what&apos;s the catch?</p>
   
         <h2 className="text-xl font-bold mt-6">The Cracks in the System</h2>
-        <p>Many people assume that human innovation and technology will guarantee perpetual growth, but I believe that energy is the true driving force behind civilization. Without affordable and abundant energy, industrial economies would struggle to function. It's not the technology that enables energy production, but rather energy that makes modern technology possible. Our technological advancements and progress have been made possible by the abundance of energy, not the other way around.</p>
+        <p>Many people assume that human innovation and technology will guarantee perpetual growth, but I believe that energy is the true driving force behind civilization. Without affordable and abundant energy, industrial economies would struggle to function. It&apos;s not the technology that enables energy production, but rather energy that makes modern technology possible. Our technological advancements and progress have been made possible by the abundance of energy, not the other way around.</p>
   
         <h3 className="text-lg font-bold mt-4">Let's Talk About Oil</h3>
         <p>Oil, the most critical fossil fuel, is facing depletion. Conventional oil production peaked around 2005–2006, and what has prevented a sharp decline since then has been the rise of unconventional oil sources, such as U.S. tight oil and oil sands production. However, these sources come with significant limitations in terms of cost, energy efficiency, and environmental impact.</p>
@@ -48,13 +48,13 @@ const TestArticle = () => {
         <p>Even with new extraction methods, production is projected to decline significantly by 2050. The reality is that fossil fuels are not just becoming environmentally costly—they are becoming physically and economically scarce.</p>
   
         <h3 className="text-lg font-bold mt-4">The Declining Quality of Oil</h3>
-        <p>Peak oil likely happened in 2018, but the real problem isn't just how much oil we have—it's that the quality of oil is deteriorating. Today, 40% of what we count as "oil" isn't actually crude oil but includes natural gas liquids and biofuels, which contain less energy per unit. This means we're producing more in volume but getting less usable energy overall.</p>
+        <p>Peak oil likely happened in 2018, but the real problem isn&apos;t just how much oil we have—it&apos;s that the quality of oil is deteriorating. Today, 40% of what we count as &quot;oil&quot; isn&apos;t actually crude oil but includes natural gas liquids and biofuels, which contain less energy per unit. This means we&apos;re producing more in volume but getting less usable energy overall.</p>
         <img src="/img/article1/projection.png" alt="projection"  className="w-3/4 h-auto mt-4 mx-auto" />
         <p>At the same time, conventional oil fields are running dry, and new production—mainly from shale—declines rapidly and requires continuous drilling to maintain supply. The need for constant reinvestment makes it an unsustainable long-term solution.</p>
         <img src="/img/article1/USoil.png" alt="USoil"  className="w-3/4 h-auto mt-4 mx-auto" /> 
         <p>A critical factor in this equation is EROEI (Energy Returned on Energy Invested). In the past, conventional oil had an EROEI of 30:1 or higher, meaning we obtained 30 units of energy for every 1 unit invested in extraction. By contrast, shale oil has an EROEI of around 5:1, making it far less efficient. The lower this ratio, the less net energy is available to power the economy.</p>
         <h3 className="text-lg font-bold mt-4">Can Renewables Replace Oil?</h3>
-        <p>Some argue that renewable energy can replace oil, but this isn't entirely true. While solar and wind can generate electricity, most oil consumption is in transportation, agriculture, and industry—sectors that require liquid fuels. Heavy-duty transport like airplanes, cargo ships, and industrial machinery cannot be easily electrified with current technology. The share of electricity in global final energy consumption was only 23.6% in 2023 and has remained broadly stable.</p>
+        <p>Some argue that renewable energy can replace oil, but this isn&apos;t entirely true. While solar and wind can generate electricity, most oil consumption is in transportation, agriculture, and industry—sectors that require liquid fuels. Heavy-duty transport like airplanes, cargo ships, and industrial machinery cannot be easily electrified with current technology. The share of electricity in global final energy consumption was only 23.6% in 2023 and has remained broadly stable.</p>
         <p>Renewables are excellent for powering homes, offices, and some industrial processes, but they do not provide the same energy density and storage capacity as oil. Without a large-scale transformation of energy infrastructure and consumption habits, the transition away from fossil fuels will be anything but smooth.</p>
   
         <h2 className="text-xl font-bold mt-6">The Economic and Social Consequences of Decline</h2>
@@ -64,7 +64,7 @@ const TestArticle = () => {
         <p>The transition away from fossil fuels will require adaptation. Some nations may invest in local energy solutions, while others may face economic decline and political turmoil.</p>
   
         <h2 className="text-xl font-bold mt-6">And I'm Not Even Raising the Climate Issue…</h2>
-        <p>This discussion hasn't even touched on the climate crisis, which adds another layer of urgency to the energy dilemma. Reducing emissions while maintaining economic stability is an enormous challenge, and delaying action only makes the transition harder.</p>
+        <p>This discussion hasn&apos;t even touched on the climate crisis, which adds another layer of urgency to the energy dilemma. Reducing emissions while maintaining economic stability is an enormous challenge, and delaying action only makes the transition harder.</p>
   
         <h2 className="text-xl font-bold mt-6">What Comes Next? Navigating the Future</h2>
         <p>The end of fossil fuel dominance does not mean the end of civilization, but it does mean we must rethink how we live, work, and consume. A sustainable future requires a fundamental shift in our priorities:</p>
@@ -76,7 +76,7 @@ const TestArticle = () => {
         </ul>
   
         <h2 className="text-xl font-bold mt-6">Conclusion: A Future Beyond Fossil Fuels</h2>
-        <p>Our modern world was built on the back of fossil fuels, but the era of cheap energy is coming to an end. Whether we face a chaotic collapse or a managed transition depends on how quickly we recognize the stakes and take action. What comes next is not just about new technologies—it's about redefining our relationship with energy, resources, and each other.</p>
+        <p>Our modern world was built on the back of fossil fuels, but the era of cheap energy is coming to an end. Whether we face a chaotic collapse or a managed transition depends on how quickly we recognize the stakes and take action. What comes next is not just about new technologies—it&apos;s about redefining our relationship with energy, resources, and each other.</p>
       </main>
 
       <div className="flex flex-col gap-4">
