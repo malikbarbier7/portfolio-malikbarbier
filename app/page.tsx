@@ -1,5 +1,10 @@
 import Link from 'next/link';
 
+export const metadata = {
+  title: "Malik Barbier",
+  description: "Hey there, I'm Malik. Welcome to my website!",
+};
+
 export default function Home() {
   return (
     <div className="max-w-3xl mx-auto py-8 px-4 lg:py-12 min-h-screen flex flex-col gap-12">
