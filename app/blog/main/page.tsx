@@ -22,7 +22,7 @@ const TestArticle = () => {
             <li>
               <a>The Rise and Fall of the Fossil Fuel Empire</a>
               <span className="text-neutral-700 italic"></span>
-              <a href="/blog/the-rise-and-fall-of-the-fossil-fuel-empire" className="text-blue-500 font-semibold hover:underline"> - read</a>
+              <Link href="/blog/the-rise-and-fall-of-the-fossil-fuel-empire" className="text-blue-500 font-semibold hover:underline"> - read</Link>
             </li>
 
     
@@ -33,7 +33,7 @@ const TestArticle = () => {
             <li>
               <a>My Biggest Fear : Am I a Robot, an AI ?</a>
               <span className="text-neutral-700 italic"></span>
-              <a className="text-blue-500 font-semibold hover:underline" href="/blog/my-biggest-fear-am-i-a-robot"> - read</a>
+              <Link href="/blog/my-biggest-fear-am-i-a-robot" className="text-blue-500 font-semibold hover:underline"> - read</Link>
             </li>
             </ul>
 
