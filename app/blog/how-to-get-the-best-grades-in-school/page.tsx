@@ -30,12 +30,7 @@ const TestArticle = () => {
           <li>If you get confused while talking, you know where you need to review.</li>
         </ul>
         <p>Bonus: it&rsquo;s more fun and way less isolating than studying alone.</p>
-
-        <h2 className="text-xl font-bold mt-6">🧠 Conclusion: School Is a Game. Learn to Play It.</h2>
-        <p>This isn&apos;t about cheating or taking shortcuts. It&apos;s about understanding the system and using it strategically.</p>
-        <p>You don&apos;t need to work all night or memorize textbooks blindly. You just need to study smarter, focus on what matters, and prepare in a way that gives you the upper hand.</p>
-        <p>Success at school isn&apos;t just about talent or intelligence, it&apos;s about approach. And the methods you use here can follow you far beyond the classroom.</p>
-        <p>So instead of letting the system test you... Test the system. Prepare like a strategist. Play the long game. And turn your education into your personal victory.</p>
+        
       </main>
 
       <footer className="flex items-center gap-4 lg:gap-8 flex-wrap text-neutral-700">
