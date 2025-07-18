@@ -37,6 +37,18 @@ const TestArticle = () => {
             </li>
             </ul>
 
+
+            <h2 className="font-caption text-lg lg:text-xl font-bold">Miscellaneous</h2>
+            <ul className="list-disc list-inside">
+            <li>
+              <a>Glitch: How to Get the Best Grades in School (and Be Top of Your Class) Without Cheating</a>
+              <span className="text-neutral-700 italic"></span>
+              <Link href="/blog/how-to-get-the -best-grades-in-school" className="text-blue-500 font-semibold hover:underline"> - read</Link>
+            </li>
+            </ul>
+
+
+
         </div>
 
     </main>
