@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 
 const TestArticle = () => {
   return (
@@ -38,7 +37,6 @@ const TestArticle = () => {
         <p>Success at school isn&apos;t just about talent or intelligence &mdash; it&apos;s about approach. And the methods you use here can follow you far beyond the classroom.</p>
         <p>So instead of letting the system test you... Test the system. Prepare like a strategist. Play the long game. And turn your education into your personal victory.</p>
       </main>
-
 
       <footer className="flex items-center gap-4 lg:gap-8 flex-wrap text-neutral-700">
         <a className="text-neutral-700 hover:underline" href="https://github.com/malikbarbier7/tomatotime/settings">Github</a>
