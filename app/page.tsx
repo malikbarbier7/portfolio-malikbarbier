@@ -27,6 +27,13 @@ export default function Home() {
         <div className="flex flex-col gap-4">
           <h2 className="font-caption text-lg lg:text-xl font-bold">Code</h2>
           <ul className="list-disc list-inside">
+
+           <li>
+              <span className="font-semibold">Web app to find dog parks in France </span>
+              <a className="text-blue-500 font-semibold hover:underline" href="www.canimap.fr">Canimap</a>
+              <span className="text-neutral-700"> 2025</span>
+            </li>
+
             <li>
               <span className="font-semibold">Cute pomodoro timer </span>
               <a className="text-blue-500 font-semibold hover:underline" href="https://github.com/malikbarbier7/tomatotime">Tomato Time</a>
