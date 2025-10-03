@@ -30,7 +30,7 @@ export default function Home() {
 
            <li>
               <span className="font-semibold">Web app to find dog parks in France </span>
-              <a className="text-blue-500 font-semibold hover:underline" href="www.canimap.fr">Canimap</a>
+              <a className="text-blue-500 font-semibold hover:underline" href="https://canimap.fr">Canimap</a>
               <span className="text-neutral-700"> 2025</span>
             </li>
 
