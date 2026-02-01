@@ -23,7 +23,7 @@ export default function Home() {
       </p>
 
       <main className="flex-1 flex flex-col gap-6 lg:gap-8">
-      {/* --------CODE -------- */}
+      {/* --------CODE -------- 
         <div className="flex flex-col gap-4">
           <h2 className="font-caption text-lg lg:text-xl font-bold">Code</h2>
           <ul className="list-disc list-inside">
@@ -46,7 +46,7 @@ export default function Home() {
               <span className="text-neutral-700"> 2024</span>
             </li>
           </ul>
-        </div>
+        </div> */}
 
       {/* --------WRITINGS -------- */}
 
