@@ -61,6 +61,28 @@ export default function Home() {
           </ul>
         </div>
 
+      {/* --------PROJECTS -------- */}
+
+        <div className="flex flex-col gap-4">
+          <h2 className="text-lg lg:text-xl font-bold">Projects</h2>
+          <ul className="list-disc list-inside">
+            <li>
+              <span className="font-semibold">Japanese learning app based on shadowing </span>
+              <a className="text-blue-500 font-semibold hover:underline" href="https://tunanuki.com">Tunanuki</a>
+            </li>
+
+            <li>
+              <span className="font-semibold">Task scheduler inspired by old computers </span>
+              <a className="text-blue-500 font-semibold hover:underline" href="https://getrobotmode.com">Robot Mode</a>
+            </li>
+
+            <li>
+              <span className="font-semibold">Chrome extension to watch multiple videos at once </span>
+              <a className="text-blue-500 font-semibold hover:underline" href="https://videomosaic.app">Video Mosaic</a>
+            </li>
+          </ul>
+        </div>
+
       {/* --------PHOTOGRAPHY -------- */}
 
        {/* <div className="flex flex-col gap-4">
