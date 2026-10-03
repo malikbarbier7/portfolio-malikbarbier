@@ -27,6 +27,14 @@ const TestArticle = () => {
             </li>
           </ul>
 
+          <h2 className="text-lg lg:text-xl font-bold">Health</h2>
+          <ul className="list-disc list-inside">
+            <li>
+              <span>Eat Well, Live Longer: An Evidence-Based Guide</span>
+              <Link href="/blog/eat-well-live-longer" className="text-blue-500 font-semibold hover:underline"> - read</Link>
+            </li>
+          </ul>
+
           <h2 className="text-lg lg:text-xl font-bold">Philosophy</h2>
           <ul className="list-disc list-inside">
             <li>
