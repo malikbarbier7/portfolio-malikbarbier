@@ -1,10 +1,20 @@
 import React from 'react';
+import Link from 'next/link';
 import Image from 'next/image';
+
+export const metadata = {
+  title: "The Rise and Fall of the Fossil Fuel Empire | Malik Barbier",
+  description: "How coal and oil built the modern economy, and why their reign is coming to an end.",
+};
 
 const TestArticle = () => {
   return (
     <div className="max-w-3xl mx-auto py-8 px-4 lg:py-12 min-h-screen flex flex-col gap-12">
       <header className="flex flex-col gap-4">
+        <nav className="flex gap-4 mt-0 mb-10">
+          <Link href="/" className="text-neutral-700 hover:underline">home</Link>
+          <Link href="/blog/main" className="text-neutral-700 hover:underline">blog</Link>
+        </nav>
         <h1 className="text-3xl font-bold">The Rise and Fall of the Fossil Fuel Empire</h1>
       </header>
   
@@ -81,7 +91,7 @@ const TestArticle = () => {
       </main>
 
       <div className="flex flex-col gap-4">
-        <h2 className="font-caption text-lg lg:text-xl font-bold">Sources</h2>
+        <h2 className="text-lg lg:text-xl font-bold">Sources</h2>
         <ul className="list-disc pl-6 space-y-2">
           <li>
             <a href="https://www.statista.com/statistics/1303368/coal-electricity-production-share-in-china/#:~:text=Coal%20power%20production%20share%20in%20China%202000%2D2023&text=Coal%20accounted%20for%20nearly%2061,5%2C700%20terawatt%20hours%20in%202023." target="_blank" className="text-blue-600 hover:underline">
@@ -118,7 +128,7 @@ const TestArticle = () => {
       </div>
 
       <footer className="flex items-center gap-4 lg:gap-8 flex-wrap text-neutral-700">
-        <a className="text-neutral-700 hover:underline" href="https://github.com/malikbarbier7/tomatotime/settings">Github</a>
+        <a className="text-neutral-700 hover:underline" href="https://github.com/malikbarbier7">Github</a>
         <a className="text-neutral-700 hover:underline" href="https://x.com/Malikbuilds">X</a>
         <a className="text-neutral-700 hover:underline" href="https://www.linkedin.com/in/malikbarbier/">LinkedIn</a>
       </footer>
