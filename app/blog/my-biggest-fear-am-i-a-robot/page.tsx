@@ -1,10 +1,20 @@
 import React from 'react';
+import Link from 'next/link';
 import Image from 'next/image';
+
+export const metadata = {
+  title: "My Biggest Fear: Am I a Robot, an AI? | Malik Barbier",
+  description: "Determinism, free will and Cartesian dualism: are we just ultra-sophisticated biological machines?",
+};
 
 const TestArticle = () => {
   return (
     <div className="max-w-3xl mx-auto py-8 px-4 lg:py-12 min-h-screen flex flex-col gap-12">
       <header className="flex flex-col gap-4">
+        <nav className="flex gap-4 mt-0 mb-10">
+          <Link href="/" className="text-neutral-700 hover:underline">home</Link>
+          <Link href="/blog/main" className="text-neutral-700 hover:underline">blog</Link>
+        </nav>
         <h1 className="text-3xl font-bold">My Biggest fear : Am I a Robot, an AI?</h1>
       </header>
 
@@ -40,7 +50,7 @@ const TestArticle = () => {
       </main>
 
       <footer className="flex items-center gap-4 lg:gap-8 flex-wrap text-neutral-700">
-        <a className="text-neutral-700 hover:underline" href="https://github.com/malikbarbier7/tomatotime/settings">Github</a>
+        <a className="text-neutral-700 hover:underline" href="https://github.com/malikbarbier7">Github</a>
         <a className="text-neutral-700 hover:underline" href="https://x.com/Malikbuilds">X</a>
         <a className="text-neutral-700 hover:underline" href="https://www.linkedin.com/in/malikbarbier/">LinkedIn</a>
       </footer>

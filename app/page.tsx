@@ -13,7 +13,7 @@ export default function Home() {
           <Link href="/" className="text-neutral-700 hover:underline">home</Link>
           <Link href="/blog/main" className="text-neutral-700 hover:underline">blog</Link>
         </nav>
-        <h1 className="font-caption text-2xl lg:text-3xl font-bold">Malik Barbier</h1>
+        <h1 className="text-2xl lg:text-3xl font-bold">Malik Barbier</h1>
       </header>
       <p>
         👋 Hi, I&apos;m @malik <br />
@@ -25,7 +25,7 @@ export default function Home() {
       <main className="flex-1 flex flex-col gap-6 lg:gap-8">
       {/* --------CODE -------- 
         <div className="flex flex-col gap-4">
-          <h2 className="font-caption text-lg lg:text-xl font-bold">Code</h2>
+          <h2 className="text-lg lg:text-xl font-bold">Code</h2>
           <ul className="list-disc list-inside">
 
            <li>
@@ -51,7 +51,7 @@ export default function Home() {
       {/* --------WRITINGS -------- */}
 
         <div className="flex flex-col gap-4">
-          <h2 className="font-caption text-lg lg:text-xl font-bold">Writings</h2>
+          <h2 className="text-lg lg:text-xl font-bold">Writings</h2>
           <ul className="list-disc list-inside">
             <li>
               <span className="font-semibold">Check my </span>
@@ -64,7 +64,7 @@ export default function Home() {
       {/* --------PHOTOGRAPHY -------- */}
 
        {/* <div className="flex flex-col gap-4">
-          <h2 className="font-caption text-lg lg:text-xl font-bold">Photos</h2>
+          <h2 className="text-lg lg:text-xl font-bold">Photos</h2>
           <ul className="list-disc list-inside">
 
             <li>
@@ -84,7 +84,7 @@ export default function Home() {
       </main>
 
       <footer className="flex items-center gap-4 lg:gap-8 flex-wrap text-neutral-700">
-        <a className="text-neutral-700 hover:underline" href="https://github.com/malikbarbier7/tomatotime/settings">Github</a>
+        <a className="text-neutral-700 hover:underline" href="https://github.com/malikbarbier7">Github</a>
         <a className="text-neutral-700 hover:underline" href="https://x.com/Malikbuilds">X</a>
         <a className="text-neutral-700 hover:underline" href="https://www.linkedin.com/in/malikbarbier/">LinkedIn</a>
       </footer>
