@@ -68,17 +68,17 @@ export default function Home() {
           <ul className="list-disc list-inside">
             <li>
               <span className="font-semibold">Japanese learning app based on shadowing </span>
-              <a className="text-blue-500 font-semibold hover:underline" href="https://tunanuki.com">Tunanuki</a>
+              <a className="text-blue-500 font-semibold hover:underline" href="https://tunanuki.com" target="_blank" rel="noopener noreferrer">Tunanuki</a>
             </li>
 
             <li>
               <span className="font-semibold">Task scheduler inspired by old computers </span>
-              <a className="text-blue-500 font-semibold hover:underline" href="https://getrobotmode.com">Robot Mode</a>
+              <a className="text-blue-500 font-semibold hover:underline" href="https://getrobotmode.com" target="_blank" rel="noopener noreferrer">Robot Mode</a>
             </li>
 
             <li>
               <span className="font-semibold">Chrome extension to watch multiple videos at once </span>
-              <a className="text-blue-500 font-semibold hover:underline" href="https://videomosaic.app">Video Mosaic</a>
+              <a className="text-blue-500 font-semibold hover:underline" href="https://videomosaic.app" target="_blank" rel="noopener noreferrer">Video Mosaic</a>
             </li>
           </ul>
         </div>
